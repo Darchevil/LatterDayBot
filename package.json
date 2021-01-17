@@ -1,0 +1,24 @@
+{
+  "name": "latterdaybot",
+  "version": "1.0.0",
+  "description": "Bot for announcement in discord JA",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "eslint": "^7.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Darchevil/LatterDayBot.git"
+  },
+  "author": "Batman35",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Darchevil/LatterDayBot/issues"
+  },
+  "homepage": "https://github.com/Darchevil/LatterDayBot#readme"
+}
